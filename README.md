@@ -50,12 +50,6 @@ screen -r
 Command to leave screen session without stopping the session:
 Ctrl-a and d
 
-Measuring CPU temperature:
-
-```
-vcgencmd measure_temp
-```
-
 Commands for automatic startup:
 
 ```
