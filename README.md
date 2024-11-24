@@ -1,10 +1,9 @@
 # Verus ccminer install commands
 <br>
-<br>
-Check also our YouTube channel for instructions and other related information [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
+Check the instruction on how to use it on [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
 <br>
 If you had fun with the projects, please consider giving us a Super Thanks on YouTube or buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee").
-
+<br>
 <h3><u>The commands to install CCMiner</u></h3>
 
 Command to update and upgrade your OS:
